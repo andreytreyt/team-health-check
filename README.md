@@ -45,7 +45,7 @@
 | Decision Making | We are just cogs in the project, we don’t decide anything.               | We decide what to do and how to do it better!                                                          |
 | Product Value   | I'm ashamed of this product.                                             | We make a great product and take pride in what we do!                                                  |
 
-### Analysis
+## Analysis
 
 To obtain an assessment by a participant of a group of indicators, scores for indicators in the group are added up and divided by the number of indicators in the group.
 
