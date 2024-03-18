@@ -4,11 +4,11 @@
 
 ## Scale
 
-- Best - 4 
-- Good - 3 
-- Neutral - 2 
-- Bad - 1 
 - Worst - 0
+- Bad - 1
+- Neutral - 2
+- Good - 3
+- Best - 4
 
 ## Indicators
 
@@ -24,7 +24,7 @@
 
 ### Processes
 - Processes in team
-- Training
+- Learning
 
 ### Product
 - Decision Making
@@ -47,11 +47,11 @@
 
 ## Analysis
 
-To obtain an assessment by a participant of a group of indicators, scores for indicators in the group are added up and divided by the number of indicators in the group.
+To obtain an indicator score, the average value of the participant scores of the indicator is used.
 
-To obtain an overall assessment by the participant, the scores of the indicator groups are added up and divided by the number of indicator groups.
+To obtain an indicator group score, the average value of the indicator scores of the group is used.
 
-To obtain team scores, the scores of all participants are added up and divided by the number of participants.
+To obtain a team score, the average value of the indicator group scores is used.
 
 - 0-1 - there are serious problems, action needs to be taken
 - 1-2 - there is a need for improvements
