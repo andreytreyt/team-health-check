@@ -1,14 +1,6 @@
 # Team Health Check
 
-[Scale](#scale) | [Indicators](#indicators) | [Template](#template) | [Analysis](#analysis)
-
-## Scale
-
-- Worst - 0
-- Bad - 1
-- Neutral - 2
-- Good - 3
-- Best - 4
+[Indicators](#indicators) | [Statements](#statements) | [Scale](#scale) | [Analysis](#analysis)
 
 ## Indicators
 
@@ -30,7 +22,7 @@
 - Decision Making
 - Product Value
 
-## Template
+## Statements
 
 | Indicator         | Rating "Worst"                                                           | Rating "Best"                                                                                          |
 |:------------------|:-------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|
@@ -44,6 +36,14 @@
 | Learning          | We never have time to learn anything!                                    | We are constantly learning new things!                                                                 |
 | Decision Making   | We are just cogs in the project, we don’t decide anything.               | We decide what to do and how to do it better!                                                          |
 | Product Value     | I'm ashamed of this product.                                             | We make a great product and take pride in what we do!                                                  |
+
+## Scale
+
+- Worst - 0
+- Bad - 1
+- Neutral - 2
+- Good - 3
+- Best - 4
 
 ## Analysis
 
