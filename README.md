@@ -47,11 +47,11 @@
 
 ## Analysis
 
-To obtain an indicator score, the average value of the participant scores of the indicator is used.
+To obtain an indicator score, the average value of the participant scores of the indicator is calculated.
 
-To obtain an indicator group score, the average value of the indicator scores of the group is used.
+To obtain an indicator group score, the average value of the indicator scores of the group is calculated.
 
-To obtain a team score, the average value of the indicator group scores is used.
+To obtain a team score, the average value of the indicator group scores is calculated.
 
 - 0-1 - there are serious problems, action needs to be taken
 - 1-2 - there is a need for improvements
